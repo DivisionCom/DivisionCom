@@ -62,7 +62,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:xd6511@gmail.com">
- <img align="left" alt="Gmail" width="150" hight="120" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/gmail.png" />
+ <img align="left" alt="Gmail" width="200" hight="170" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/gmail.png" />
 </a>
 <a href="https://steamcommunity.com/id/DivisionCommander/">
   <img align="left" alt="Steam" width="150" hight="120" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/steam.png" />
