@@ -72,7 +72,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 <a href="https://t.me/DivisionCommander">
-  <img align="left" alt=" Reddit" width="150" hight="120" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/telegram.png" />
+  <img align="left" alt=" Reddit" width="200" hight="170" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/telegram.png" />
 </a>
 </p>
  
