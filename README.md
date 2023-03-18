@@ -19,6 +19,7 @@
 - ✨ Data Structures & Algorithms
 - ✨ Android Developing
 - ✨ Kotlin & Java Languages
+- ✨ Jetpack Compose
 
 ### - Hobbies : 
 - ✨ Gaming - Overwatch 2 | Top 500 Player & Grandmaster
