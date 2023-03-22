@@ -39,6 +39,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/jetpack-compose.svg" alt="jetpack-compose"  width="80" height="80">
 <img src="https://github.com/DivisionCom/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="android"  width="80" height="80">
 <img src="https://github.com/DivisionCom/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="kotlin" width="80" height="80">
 <img src="https://github.com/DivisionCom/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="80" height="80">
