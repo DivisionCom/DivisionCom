@@ -25,8 +25,6 @@
 ### - Hobbies : 
 - ✨ Gaming - Overwatch 2 | Top 500 Player & Grandmaster
 - ✨ Watching Series - One Piece & Stranger Things Are The Best!
-- ✨ Listening Music
-- ✨ Basketball
 
 </br>
 </br>
