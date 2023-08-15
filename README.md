@@ -22,7 +22,7 @@
 - ✨ Room, Coroutines, MVVM, Dagger 2, Retrofit 2
 
 ### - Hobbies : 
-- ✨ Gaming - Overwatch 2 | Top 500 Player & Grandmaster
+- ✨ Gaming - Overwatch 2 | Top 100 Player
 - ✨ Watching Series - One Piece & Stranger Things Are The Best!
 
 </br>
