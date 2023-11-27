@@ -11,12 +11,13 @@
 - ✨ I'm 20 years old Android Development Learning Enthusiast.
 
 ### - Learning :
-- ✨ Kotlin & Java Languages
-- ✨ Jetpack Compose
+- ✨ Kotlin
+- ✨ Jetpack Compose / XML
 - ✨ Retrofit2, okHttp3
 - ✨ SQLite - Room
-- ✨ Dagger, Coin
-- ✨ Coroutines, MVVM
+- ✨ Dagger 2 - Hilt
+- ✨ Coroutines
+- ✨ MVVM, Clean Architecture
 
 ### - Hobbies : 
 - ✨ Gaming - Overwatch 2 | Top 100 Player
