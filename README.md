@@ -31,7 +31,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-<a href="mailto:xd6511@gmail.com">
+<a href="mailto:evgenii.fedin.dev@gmail.com">
  <img align="left" alt="Gmail" width="170" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/gmail.png" />
 </a>
 
