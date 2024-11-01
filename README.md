@@ -31,12 +31,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-<a href="mailto:evgenii.fedin.dev@gmail.com">
+<a href="mailto:evgenii.fedin.developer@gmail.com">
  <img align="left" alt="Gmail" width="170" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/gmail.png" />
 </a>
 
 </a>
-<a href="https://t.me/DivisionCommander">
+<a href="https://t.me/EvgeniiFedin">
   <img align="left" alt=" Reddit" width="200" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/telegram.png" />
 </a>
 </p>
