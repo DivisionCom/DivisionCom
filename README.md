@@ -8,7 +8,7 @@
 
 <img height="300" width="500" alt="GIF" align="right" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/hiThere.gif">
 
-- ✨ I'm 21 years old Android Development Learning Enthusiast.
+- ✨ I'm 22 years old Android Development Learning Enthusiast.
 
 ### - Learning :
 - ✨ Kotlin
