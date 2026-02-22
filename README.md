@@ -3,12 +3,12 @@
 📍 Saint Petersburg, Russia • Open to relocation (UAE)
 
 <div align="center">
-<img height="400" width="700" alt="GIF" align="center" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/howdy.gif">
+<img height="300" width="500" alt="GIF" align="center" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/howdy.gif">
 </div>
 
 ## What I do
 
-<img height="300" width="500" alt="GIF" align="right" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/hiThere.gif">
+<img height="150" width="350" alt="GIF" align="right" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/hiThere.gif">
 
 I build production Android applications with a strong focus on:
 - **Product engineering** (subscription monetization, analytics, A/B testing)
