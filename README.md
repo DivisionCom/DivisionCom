@@ -1,27 +1,43 @@
-## Hi there 👋
+# Hi, I'm Evgenii 👋  
+**Android Engineer (Kotlin, Jetpack Compose)** • 4+ years • shipped production apps • subscriptions & analytics • CI/CD • security-focused features  
+📍 Saint Petersburg, Russia • Open to relocation (UAE)
 
 <div align="center">
 <img height="400" width="700" alt="GIF" align="center" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/howdy.gif">
 </div>
 
-## About ME 💬 :
+## What I do
 
 <img height="300" width="500" alt="GIF" align="right" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/hiThere.gif">
 
-- ✨ I'm 22 years old Android Development Learning Enthusiast.
+I build production Android applications with a strong focus on:
+- **Product engineering** (subscription monetization, analytics, A/B testing)
+- **Performance & reliability** (startup, memory, crash-free sessions mindset)
+- **Clean architecture** (scalable modular codebases, SOLID, MVVM/MVI)
+- **Security** (on-device risk scoring, APK scanning integrations)
 
-### - Learning :
-- ✨ Kotlin
-- ✨ Jetpack Compose / XML
-- ✨ Retrofit2, okHttp3
-- ✨ SQLite - Room
-- ✨ Dagger 2 - Hilt
-- ✨ Coroutines
-- ✨ MVVM, Clean Architecture
+---
 
-### - Hobbies : 
-- ✨ Gaming - Overwatch 2 | Top 100 Player
-- ✨ Watching Series - One Piece & Stranger Things Are The Best!
+## Highlights
+- Launched and owned the full release cycle of a **Google Play antivirus app** (architecture → signing → policies → post-release improvements)
+- Implemented **Google Play Billing v6** (multiple plans, trials, regional pricing) and improved subscription conversion
+- Built an **analytics abstraction** (Firebase + AppMetrica) with funnels and Remote Config experiments
+- Designed an on-device **Risk Scoring Engine** (20+ signals, 0–100 score)
+- Created/optimized **GitLab CI/CD** pipelines to reduce manual release work
+
+---
+
+## Core stack
+**Kotlin**, **Jetpack Compose**, XML  
+Coroutines / Flow • MVVM / MVI • Clean Architecture • SOLID  
+Hilt / Dagger • Retrofit / OkHttp • Room / DataStore • WorkManager  
+Firebase (Analytics/RC/Crashlytics) • AppMetrica • GitLab CI/CD
+
+---
+
+_(I can share details and demos upon request.)_
+
+---
 
 ## Contact Me :
 
