@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
-<title id="title">Android engineering — selected work</title>
+<title id="title">Android engineering</title>
 <desc id="desc">Kotlin, Jetpack Compose and Coroutines / Flow. A dark banner with a green Android-inspired geometric motif.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#102b28"/></linearGradient>
@@ -9,7 +9,7 @@
 <rect x=".5" y=".5" width="959" height="239" rx="20" fill="url(#bg)" stroke="#28443e"/>
 <rect x="1" y="1" width="958" height="238" rx="20" fill="url(#grid)"/>
 <rect x="40" y="42" width="28" height="3" rx="1.5" fill="#3ddc84"/>
-<text x="80" y="49" font-family="monospace" font-size="12" letter-spacing="3" fill="#9bb6ad">SELECTED WORK / ANDROID</text>
+<text x="80" y="49" font-family="monospace" font-size="12" letter-spacing="3" fill="#9bb6ad">ANDROID ENGINEER</text>
 <text x="40" y="112" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1.5" fill="#f0f6fc">Built with Kotlin.</text>
 <text x="40" y="148" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#a9c0b8">Thoughtful interfaces. Practical engineering.</text>
 <g font-family="monospace" font-size="12" fill="#b9e9cf">
