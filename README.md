@@ -62,34 +62,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ---
 
 <p align="center">
-  <img src="assets/android-engineering.svg" width="100%" alt="Android engineering — selected work. Kotlin, Jetpack Compose, Coroutines and Flow." />
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗡️ Pokedex
-**A Compose take on the Pokémon universe.**
-
-Browse Pokémon and search by name in an app built with Kotlin, Jetpack Compose, Hilt and MVVM.
-
-[Explore the project →](https://github.com/DivisionCom/pokedex)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌤️ Weather App
-**The forecast, wherever you are.**
-
-Hourly and daily forecasts, city search and location-based weather in a Kotlin Android application.
-
-[Explore the project →](https://github.com/DivisionCom/weather-app)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/DivisionCom?tab=repositories">View all repositories →</a>
+  <img src="assets/android-engineering.svg" width="100%" alt="Android Engineer. Kotlin, Jetpack Compose, Coroutines and Flow." />
 </p>
