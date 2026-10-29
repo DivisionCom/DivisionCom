@@ -1,66 +1,36 @@
-# Hi, I'm Evgenii 👋  
-**Android Engineer (Kotlin, Jetpack Compose)** • 4+ years • shipped production apps • subscriptions & analytics • CI/CD • security-focused features  
-📍 Saint Petersburg, Russia • Open to relocation (UAE)
+# Evgenii Fedin
+**Android Engineer · Kotlin & Jetpack Compose**
 
-<div align="center">
-<img height="300" width="500" alt="GIF" align="center" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/howdy.gif">
-</div>
+Based in **Tbilisi, Georgia**. Open to relocation to the **US, Canada, Europe, and the UAE**.
 
-## What I do
+[Portfolio](https://byfedin.dev) · [Résumé PDF](https://byfedin.dev/Evgenii-Fedin-Android-Engineer.pdf) · [LinkedIn](https://www.linkedin.com/in/evgenii-fedin/) · [Email](mailto:evgenii@byfedin.dev)
 
-<img height="150" width="350" alt="GIF" align="right" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/hiThere.gif">
+## Android engineering, from architecture to release
 
-I build production Android applications with a strong focus on:
-- **Product engineering** (subscription monetization, analytics, A/B testing)
-- **Performance & reliability** (startup, memory, crash-free sessions mindset)
-- **Clean architecture** (scalable modular codebases, SOLID, MVVM/MVI)
-- **Security** (on-device risk scoring, APK scanning integrations)
+I own Android development within Galaksion’s internal mobile studio. My work spans architecture, implementation, subscription monetization, analytics, Google Play releases, and post-launch iteration.
 
----
+Working alongside our iOS engineer, I also contribute to product discovery, idea validation, and monetization decisions.
 
-## Highlights
-- Launched and owned the full release cycle of a **Google Play antivirus app** (architecture → signing → policies → post-release improvements)
-- Implemented **Google Play Billing v6** (multiple plans, trials, regional pricing) and improved subscription conversion
-- Built an **analytics abstraction** (Firebase + AppMetrica) with funnels and Remote Config experiments
-- Designed an on-device **Risk Scoring Engine** (20+ signals, 0–100 score)
-- Created/optimized **GitLab CI/CD** pipelines to reduce manual release work
+## Selected experience
 
----
+- Led Android development and Google Play release delivery for an antivirus application.
+- Implemented subscription plans, regional pricing, purchase validation, and attribution.
+- Built an analytics abstraction for Firebase and AppMetrica, with funnel tracking and Remote Config experiments.
+- Developed on-device risk scoring using 20+ behavioral and permission-based signals.
+- Built GitLab CI/CD pipelines for Android build and release workflows.
+- Currently developing reusable Android infrastructure for analytics, billing, attribution, and remote configuration.
 
-## Core stack
-**Kotlin**, **Jetpack Compose**, XML  
-Coroutines / Flow • MVVM / MVI • Clean Architecture • SOLID  
-Hilt / Dagger • Retrofit / OkHttp • Room / DataStore • WorkManager  
-Firebase (Analytics/RC/Crashlytics) • AppMetrica • GitLab CI/CD
+## Core technologies
 
----
+**Android:** Kotlin, Jetpack Compose, Android SDK, XML, Coroutines & Flow  
+**Architecture:** Clean Architecture, MVVM/MVI, unidirectional data flow  
+**Data & integrations:** Hilt/Dagger, Retrofit, OkHttp, Room, DataStore, WorkManager  
+**Product & delivery:** Google Play Billing, Firebase, AppMetrica, GitLab CI/CD  
+**Testing:** JUnit, Mockito, Espresso, Kaspresso
 
-_(I can share details and demos upon request.)_
+## Work and contact
 
----
+Explore my experience and project case studies at **[byfedin.dev](https://byfedin.dev)**. Public repositories also include earlier projects and experiments.
 
-## Contact Me :
-
-<p>
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<br>
-<br>
-
-<a href="mailto:evgenii.fedin.developer@gmail.com">
- <img align="left" alt="Gmail" width="170" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/gmail.png" />
-</a>
-
-<a href="https://t.me/EvgeniiFedin">
-  <img align="left" alt="Telegram" width="200" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/telegram.png" />
-</a>
-</p>
- 
-<br>
-<br>
-
----
-
-<p align="center">
-  <img src="assets/android-engineering.svg" width="100%" alt="Android Engineer. Kotlin, Jetpack Compose, Coroutines and Flow." />
-</p>
+For Android engineering opportunities: **[evgenii@byfedin.dev](mailto:evgenii@byfedin.dev)**  
+[Telegram](https://t.me/EvgeniiFedin) · [LinkedIn](https://www.linkedin.com/in/evgenii-fedin/)
