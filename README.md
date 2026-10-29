@@ -42,4 +42,4 @@ Product showcases with real-device screenshots, engineering decisions, and short
 Explore my experience and project case studies at **[byfedin.dev](https://byfedin.dev)**. The pinned repositories highlight my commercial Android work.
 
 For Android engineering opportunities: **[evgenii@byfedin.dev](mailto:evgenii@byfedin.dev)**  
-[Telegram](https://t.me/EvgeniiFedin) · [LinkedIn](https://www.linkedin.com/in/evgenii-fedin/)
+[Telegram](https://t.me/byfedin) · [LinkedIn](https://www.linkedin.com/in/evgenii-fedin/)
