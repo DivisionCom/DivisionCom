@@ -17,8 +17,8 @@ Product showcases with real-device screenshots, engineering decisions, and short
 
 | Project | Android work | Explore |
 | --- | --- | --- |
-| **[ClickMoney](https://github.com/DivisionCom/clickmoney-android)** | Offer discovery, reward flows, analytics, and verified APK updates. Full Android ownership. | [Case study](https://byfedin.dev/clickmoney) · [Demo](https://byfedin.dev/clickmoney#demo-title) |
-| **[Core Defense](https://github.com/DivisionCom/core-defense-android)** | Device security insights, on-device scoring, Google Play Billing, analytics, and release delivery. | [Case study](https://byfedin.dev/core-defense) · [Demo](https://byfedin.dev/core-defense#demo-title) |
+| **[ClickMoney](https://github.com/byfedin/clickmoney-android)** | Offer discovery, reward flows, analytics, and verified APK updates. Full Android ownership. | [Case study](https://byfedin.dev/clickmoney) · [Demo](https://byfedin.dev/clickmoney#demo-title) |
+| **[Core Defense](https://github.com/byfedin/core-defense-android)** | Device security insights, on-device scoring, Google Play Billing, analytics, and release delivery. | [Case study](https://byfedin.dev/core-defense) · [Demo](https://byfedin.dev/core-defense#demo-title) |
 
 ## Selected experience
 
