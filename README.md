@@ -13,10 +13,11 @@ Working alongside our iOS engineer, I also contribute to product discovery, idea
 
 ## Selected projects
 
-Product showcases with real-device screenshots, engineering decisions, and short walkthroughs.
+Commercial Android case studies and a runnable open-source code sample.
 
 | Project | Android work | Explore |
 | --- | --- | --- |
+| **[Offer Catalog](https://github.com/byfedin/offer-catalog-android)** | Open-source Compose catalog with cancellable search, pagination, state restoration and behaviour tests. | [Source & run instructions](https://github.com/byfedin/offer-catalog-android#readme) · [Checks](https://github.com/byfedin/offer-catalog-android/actions) |
 | **[ClickMoney](https://github.com/byfedin/clickmoney-android)** | Offer discovery, reward flows, analytics, and verified APK updates. Full Android ownership. | [Case study](https://byfedin.dev/clickmoney) · [Demo](https://byfedin.dev/clickmoney#demo-title) |
 | **[Core Defense](https://github.com/byfedin/core-defense-android)** | Device security insights, on-device scoring, Google Play Billing, analytics, and release delivery. | [Case study](https://byfedin.dev/core-defense) · [Demo](https://byfedin.dev/core-defense#demo-title) |
 
@@ -39,7 +40,7 @@ Product showcases with real-device screenshots, engineering decisions, and short
 
 ## Work and contact
 
-Explore my experience and project case studies at **[byfedin.dev](https://byfedin.dev)**. The pinned repositories highlight my commercial Android work.
+Explore my experience and project case studies at **[byfedin.dev](https://byfedin.dev)**. The pinned repositories include my commercial Android case studies and an independent, runnable code sample.
 
 For Android engineering opportunities: **[evgenii@byfedin.dev](mailto:evgenii@byfedin.dev)**  
 [Telegram](https://t.me/byfedin) · [LinkedIn](https://www.linkedin.com/in/evgenii-fedin/)
